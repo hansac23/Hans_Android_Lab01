@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="spin_message">Spin flag</string>
+    <string name="button1">Bouton1</string>
+    <string name="button2">Bouton2</string>
+    <string name="button3">Bouton3</string>
+</resources>
